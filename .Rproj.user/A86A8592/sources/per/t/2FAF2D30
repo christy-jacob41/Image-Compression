@@ -1,0 +1,28 @@
+{
+    "id": "2FAF2D30",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618625201302.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "bb452d68127742939a77fdc907d68cda",
+        "name": "kMeans",
+        "title": "kMeans",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 140688326066192,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618625201302,
+    "read_only": false,
+    "read_only_alternatives": []
+}
